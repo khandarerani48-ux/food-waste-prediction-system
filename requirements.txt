@@ -1,0 +1,7 @@
+
+streamlit
+pandas
+joblib
+scikit-learn==YOUR_VERSION
+matplotlib
+reportlab
