@@ -1,7 +1,9 @@
 
+
 streamlit
 pandas
 joblib
-scikit-learn==YOUR_VERSION
+scikit-learn==1.9.1
 matplotlib
 reportlab
+
